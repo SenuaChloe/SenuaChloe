@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SenuaChloe, Also know as Chloé Lourseyre or Senua C.
-- 👀 I’m interested in C++ and Rust
-- 🌱 I write weekly articles about C++ and bad practices on my blog: http://belaycpp.com
-- 📫 How to reach me: chloe.lourseyre@gmail.com or @SenuaChloe on Twitter
+- I’m @SenuaChloe, also know as Chloé Lourseyre, Senua C or sometimes ASCA.
+- I'm interested (and mostyl work) in C, C++ and Rust.
+- I wrote articles about C++ and bad practices on my blog: http://belaycpp.com
+- How to reach me: chloe.lourseyre@gmail.com
